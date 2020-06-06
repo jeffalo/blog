@@ -19,6 +19,13 @@ posts.reverse().forEach(item => {
 function readPost(postItem){
     var postTitle = document.getElementById('postTitle')
     var post = document.getElementById('post')
-    post.innerHTML = postItem.body
+    post.innerHTML = postItem.body + '<br><a href="#"onclick="clearPost()">close</a>'
     postTitle.innerHTML = postItem.title
+}
+
+function clearPost(){
+    var postTitle = document.getElementById('postTitle')
+    var post = document.getElementById('post')
+    post.innerHTML = ''
+    postTitle.innerHTML = ''
 }

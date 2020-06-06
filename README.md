@@ -1,2 +1,2 @@
 # blog
- a pretty bad blog
+a pretty bad blog loaded client side because 🤷‍♂️
