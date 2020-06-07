@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+
+a {
+    color: #0000EE;
+    font-weight: bold;
+    text-decoration: none;
+}/* Globally */
+
+/* Each state */
+
+a:visited {
+    color: #0000EE;
+}
