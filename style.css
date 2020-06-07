@@ -1,7 +1,10 @@
 body{
     font-family: sans-serif;
+    color: rgb(44, 70, 95);
 }
-
+h1{
+    color: black;
+}
 a {
     color: #0000EE;
     font-weight: bold;
