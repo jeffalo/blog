@@ -28,7 +28,7 @@ function readPost(postItem){
 }
 
 function clearPost(){
-    window.history.pushState('page2', 'Title', `/`)
+    window.history.pushState('page2', 'Title', `?`)
     splash.style = 'display: block'
     var postTitle = document.getElementById('postTitle')
     var post = document.getElementById('post')
