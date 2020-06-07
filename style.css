@@ -6,7 +6,7 @@ h1{
     color: black;
 }
 a {
-    color: #0000EE;
+    color: rgb(130, 15, 238);
     font-weight: bold;
     text-decoration: none;
 }/* Globally */
@@ -14,5 +14,9 @@ a {
 /* Each state */
 
 a:visited {
-    color: #0000EE;
+    color: rgb(130, 15, 238);
+}
+
+a:hover {
+    color: rgb(186, 112, 255);
 }
