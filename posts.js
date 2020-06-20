@@ -1,5 +1,6 @@
 var posts = [
     {title:'welcome to my blog', body:'it is pretty nice i know'},
     {title:'why did you make your blog like this', body:'none of your buisness'},
-    {title:'blog updates', body:'so you might have noticed i make blog and its super cool apart from when its not but something cool i can do is things like this <marquee scrollamount="50">wheeeeeeeeee</marquee> yay also thats probably bad html but eh who cares about standards'}
+    {title:'blog updates', body:'so you might have noticed i make blog and its super cool apart from when its not but something cool i can do is things like this <marquee scrollamount="50">wheeeeeeeeee</marquee> yay also thats probably bad html but eh who cares about standards'},
+    {title:'where i am', body:'i am making some stuffs and things. <br><br>yesterday i reached 2 years on my scratch account which is cool i guess.<br><br>i\'m working on a chrome extenstion to redirect search engines to other ones which is cool, but it might get denied because it allows people to avoid google and stuff. <br><br>i\'m having some logistical issues with it because i am trying to figure out what the most user friendly but customizable way to do things is. <br><br>also i noticed i didnt provide a date for all the other blog posts, but now its too late to go fix it, i mean i could go to the git history to go see all of that but im lazy so no thanks. i\'ll leave the date here and later i\'ll add proper date support on here. 20/6/2020'}
 ]
